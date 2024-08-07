@@ -72,10 +72,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.8",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ NOTXAHMII』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ NOTXAHMII』```", //*『FOLLOW • NOTXAHMII』*\n tiktok.com/@notxahmii"),
  
-  author : process.env.PACK_AUTHER|| "AHMII_STICKERS",
-  packname: process.env.PACK_NAME || "NOTXAHMII",
+  author : process.env.PACK_AUTHER|| "NOTXAHMII_STICKERS",
+  packname : process.env.PACK_NAME || "NOTXAHMII",
   botname : process.env.BOT_NAME  || "NOTXAHMII-SCOTT",
   ownername:process.env.OWNER_NAME|| "AHMAD_HP170",
 
